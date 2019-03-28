@@ -1,0 +1,8 @@
+*.debhelper.log
+*.postinst.debhelper
+*.postrm.debhelper
+*.preinst.debhelper
+*.prerm.debhelper
+*.substvars
+cgroupfs-mount/
+files
